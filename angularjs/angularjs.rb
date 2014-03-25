@@ -38,6 +38,8 @@ gem_group :development do
   gem 'jasmine-rails'
 end
 
+run 'bundle install'
+
 ####################################
 ### Directory and File structure ###
 ####################################
